@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aakashgarg289
-- 👀 I’m interested in Python and exloring it's Wonderful and Awesome Frameworks.
-- 🌱 I’m currently learning Automation Testing In Python.
+- 👀 I’m interested in working with Python and it's Wonderful and Awesome Frameworks like Flask, Machine Learning etc.
+- 🌱 I’m currently exploring Machine Learning in Python.
 - 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me ...
 
@@ -12,6 +12,8 @@ You can reach me or connect to me on various Social Networking Sites Like :
 4. Twitter - https://twitter.com/Aakashgarg289
 
 I'll surely respond to your request.
+
+ThankYou!!💞️👀
 
 <!---
 Aakashgarg289/Aakashgarg289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
